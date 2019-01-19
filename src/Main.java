@@ -8,6 +8,6 @@ public class Main {
 
         Main y = new Main();
         y.setHe_so();
-        
+
     }
 }
